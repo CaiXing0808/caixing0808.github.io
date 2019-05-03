@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://practical-curran-02febe.netlify.com/"
+baseurl = "https://elastic-darwin-03a08c.netlify.com/"
 languageCode = "en-us"
 title = "XingCai's site"
 
@@ -84,26 +84,22 @@ theme = "hugo-artists-theme"
 		# The following social network icons are available:
 		# 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin'
 		# 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+		
 		[[params.contact.social]]
-			icon = "twitter"
-			link = "//twitter.com/devtipsshow"
+			icon = "linkedin"
+			link = "//www.linkedin.com/in/xingcai/"
+		
+		[[params.contact.social]]
+			icon = "instagram"
+			link = "//www.instagram.com/tracylqq/"
 
 		[[params.contact.social]]
-			icon = "dribbble"
-			link = "//dribbble.com/travisneilson"
-
-		[[params.contact.social]]
-			icon = "behance"
-			link = "//www.behance.net/travisneilson"
+			icon = "github"
+			link = "//github.com/CaiXing0808"
 
 		[[params.contact.social]]
 			icon = "youtube"
-			link = "//www.youtube.com/DevTipsForDesigners"
-
-		[[params.contact.social]]
-			icon = "linkedin"
-			link = "//www.linkedin.com/in/travisneilson"
-
+			link = "//www.youtube.com/"
 
 	[params.form]
 		title = "Let's work together"
