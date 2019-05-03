@@ -3,97 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/public/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2019-05-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/public/post/visual-analytics/</loc>
+    <loc>/post/visual-analytics/</loc>
     <lastmod>2019-05-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/public/</loc>
+    <loc>/</loc>
     <lastmod>2019-05-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/public/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/public/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/public/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/public/tags/r-markdown/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/public/tags/</loc>
+    <loc>/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/public/tags/plot/</loc>
+    <loc>/tags/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/public/tags/regression/</loc>
+    <loc>/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/public/work/proj-1/</loc>
+    <loc>/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/public/work/proj-2/</loc>
+    <loc>/work/proj-1/</loc>
   </url>
   
   <url>
-    <loc>/public/work/proj-3/</loc>
+    <loc>/work/proj-2/</loc>
   </url>
   
   <url>
-    <loc>/public/work/proj-4/</loc>
+    <loc>/work/proj-3/</loc>
   </url>
   
   <url>
-    <loc>/public/work/proj-5/</loc>
+    <loc>/work/proj-4/</loc>
   </url>
   
   <url>
-    <loc>/public/work/proj-6/</loc>
+    <loc>/work/proj-5/</loc>
   </url>
   
   <url>
-    <loc>/public/work/proj-7/</loc>
+    <loc>/work/proj-6/</loc>
   </url>
   
   <url>
-    <loc>/public/work/proj-8/</loc>
+    <loc>/work/proj-7/</loc>
   </url>
   
   <url>
-    <loc>/public/work/</loc>
+    <loc>/work/proj-8/</loc>
+  </url>
+  
+  <url>
+    <loc>/work/</loc>
     <priority>0</priority>
   </url>
   
