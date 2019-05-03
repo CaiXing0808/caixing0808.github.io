@@ -1,7 +1,8 @@
 # Site settings
 baseurl = "https://caixing0808.github.io/public/"
 languageCode = "en-us"
-title = "Xing's Blog"
+title = "Xing Cai's site"
+
 theme = "hugo-artists-theme"
 
 [params]
