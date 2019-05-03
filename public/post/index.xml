@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Xing&#39;s Blog</title>
-    <link>/post/</link>
+    <link>/public/post/</link>
     <description>Recent content in Posts on Xing&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/public/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Visual Analytics</title>
-      <link>/post/visual-analytics/</link>
+      <link>/public/post/visual-analytics/</link>
       <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/visual-analytics/</guid>
+      <guid>/public/post/visual-analytics/</guid>
       <description>Prepare for analysesset.seed(1234)library(ggplot2)## Warning: package &amp;#39;ggplot2&amp;#39; was built under R version 3.5.1library(lattice)Basic console outputTo insert an R code chunk, you can type it manually or just press Chunks - Insert chunks or use the shortcut key. This will produce the following code chunk:
 Pressing tab when inside the braces will bring up code chunk options.
 The following R code chunk labelled basicconsole is as follows:</description>
@@ -24,10 +24,10 @@ The following R code chunk labelled basicconsole is as follows:</description>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <link>/public/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/public/post/2015-07-23-r-rmarkdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
