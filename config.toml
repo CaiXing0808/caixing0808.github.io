@@ -46,31 +46,31 @@ theme = "hugo-artists-theme"
 		title = "About me"
 		bio = "**Data Scientist of DSBA in UNCC** love life. Most of the things she makes are [digital interfaces](//travisneilson.com/), but she also puts effort into crafting [next-level beats](//soundcloud.com/travis-neilson) and [Shiny App](//youtube.com/user/devtipsfordesigners) about making codes happen."
 		[[params.about.skills]]
-			name = "Communication"
-			value = 9
-
-		[[params.about.skills]]
-			name = "Organization"
-			value = 7
-
-		[[params.about.skills]]
-			name = "Learning"
+			name = "Data Analyst"
 			value = 10
 
 		[[params.about.skills]]
-			name = "Teaching"
-			value = 6
+			name = "Python"
+			value = 8
 
 		[[params.about.skills]]
-			name = "Planning"
+			name = "Tableau"
+			value = 10
+
+		[[params.about.skills]]
+			name = "R"
+			value = 8
+
+		[[params.about.skills]]
+			name = "R Shiny"
 			value = 7
 
 		[[params.about.skills]]
-			name = "Visual Design"
-			value = 5
+			name = "Visual Analytics"
+			value = 9
 
 		[[params.about.skills]]
-			name = "UX Design"
+			name = "SQL"
 			value = 8
 
 		[[params.about.skills]]
