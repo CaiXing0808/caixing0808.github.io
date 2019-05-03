@@ -1,0 +1,43 @@
+---
+title: Visual Analytics
+author: Xing Cai
+date: '2019-05-03'
+slug: visual-analytics
+categories: []
+tags: []
+---
+
+## Prepare for analyses
+```{r }
+set.seed(1234)
+library(ggplot2)
+library(lattice)
+```
+
+
+## Basic console output
+To insert an R code chunk, you can type it manually or just press `Chunks - Insert chunks` or use the shortcut key. This will produce the following code chunk:
+
+    ```{r}
+    
+    ```
+
+Pressing tab when inside the braces will bring up code chunk options.
+
+The following R code chunk labelled `basicconsole` is as follows:
+
+    ```{r }
+    x <- 1:10
+    y <- round(rnorm(10, x, 1), 2)
+    df <- data.frame(x, y)
+    df
+    ```
+    
+The code chunk input and output is then displayed as follows:
+
+```{r basicconsole}
+x <- 1:10
+y <- round(rnorm(10, x, 1), 2)
+df <- data.frame(x, y)
+df
+```

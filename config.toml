@@ -44,7 +44,7 @@ theme = "hugo-artists-theme"
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "About me"
-		bio = "**Data Scientist of DSBA in UNCC** love life. Most of the things she makes are [digital interfaces](//travisneilson.com/), but she also puts effort into crafting [next-level beats](//soundcloud.com/travis-neilson) and [Shiny App](//youtube.com/user/devtipsfordesigners) about making codes happen."
+		bio = "**Data Scientist of DSBA in UNCC** love life. Most of the things she makes are [digital interfaces](//github.com/CaiXing0808), but she also puts effort into crafting [next-level beats](//www.linkedin.com/in/xingcai/) and [Shiny App](//xing-cai6.shinyapps.io/problem_set_3_xingcai/) about making codes happen."
 		[[params.about.skills]]
 			name = "Data Analyst"
 			value = 10
